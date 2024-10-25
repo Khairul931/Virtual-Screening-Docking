@@ -4,7 +4,7 @@ This script utilize perl language, allowing user to perform virtual screening do
 
 Make sure to install Perl IDE first on your windows PC. To check if Perl has been installed: perl -v
 
-Create a text containing a list of all ligand that you intended to dock.
+Create a text containing a list of all ligand that you intended to dock.       dir /b > ligand.txt
 
 To run script: perl VSD_Script.pl
 
